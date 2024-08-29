@@ -61,7 +61,7 @@ Applied 10% discount to all products in Snack Machine
 
 **© 2024 [Sajit Magesh](https://github.com/maverickOG)**
 
-MIT License
+MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This code is protected by copyright laws. Unauthorized use, reproduction, or distribution is prohibited.
 
@@ -77,7 +77,5 @@ This code is protected by copyright laws. Unauthorized use, reproduction, or dis
 By following these guidelines, you can create a well-structured and maintainable virtual vending machine project. Good luck with your coding! 🚀
 
 ---
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![View on GitHub](https://img.shields.io/badge/View_on-GitHub-blue?logo=github)]()
